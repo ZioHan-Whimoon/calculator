@@ -2,7 +2,7 @@ import streamlit as tf
 import math
 
 # 웹앱 제목 설정
-st.title("🔢 다기능 계산기 웹앱")
+st.title("main.py")
 st.write("사칙연산, 모듈러, 지수, 로그 연산을 지원하는 계산기입니다.")
 
 # 사이드바에서 연산 종류 선택
